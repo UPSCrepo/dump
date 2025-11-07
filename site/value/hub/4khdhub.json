@@ -2,7 +2,7 @@
   "BASE_URL": "https://4khdhub.fans",
   "SSL_STATUS": true,
   "MOVIE_LIST_URL": "https://4khdhub.fans/category/movies-10810/page/1/",
-  "PROCESSED_FILE": "/tmp/opt/jellyfin/STRM/processed_movies.json",
+  "PROCESSED_FILE": "/tmp/opt/jellyfin/STRM/m3u8/hdhub4u/processed_movies.json",
   "STRM_DIRS": {
     "2160": "/tmp/opt/jellyfin/STRM/m3u8/4k_hubcloud/Movies/",
     "1080": "/tmp/opt/jellyfin/STRM/m3u8/hdhub4u/Movies/",
