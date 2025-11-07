@@ -1,0 +1,11 @@
+{
+  "BASE_URL": "https://4khdhub.fans",
+  "SSL_STATUS": true,
+  "MOVIE_LIST_URL": "https://4khdhub.fans/category/movies-10810/page/1/",
+  "PROCESSED_FILE": "STRM/processed_movies.json",
+  "STRM_DIRS": {
+    "2160": "STRM/m3u8/4k_hubcloud/Movies/",
+    "1080": "STRM/m3u8/hdhub4u/Movies/",
+    "default": "STRM/m3u8/"
+  }
+}
