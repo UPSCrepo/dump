@@ -1,0 +1,21 @@
+{
+  "streams": [
+    {
+      "name": "⚡ M3U8",
+      "description": "HOTSTAR ENGLISH 🇮🇳",
+      "url": "https://jcevents.hotstar.com/bpk-tv/e03bbf7688f4b14faa3782e78851c3d9_CTV/Fallback/index2.m3u8",
+      "_sourceKind": "m3u8",
+      "behaviorHints": {
+        "notWebReady": true,
+        "proxyHeaders": {
+          "request": {
+            "Cookie": "hdntl=exp=1775562415~acl=%2f*~id=b80fdeda9eb8dd11aeb9c6b7f6265ebe~data=hdntl~hmac=05da5b930c4a6e3a52a0a25f4cb073c492002a3a74c628c844ef7097afe1dead",
+            "User-Agent": "Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)",
+            "Origin": "https://www.hotstar.com",
+            "Referer": "https://www.hotstar.com"
+          }
+        }
+      }
+    }
+  ]
+}
