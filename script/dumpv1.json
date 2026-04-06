@@ -1,8 +1,8 @@
 {
   "streams": [
     {
-      "name": "⚡ M3U8",
-      "description": "HOTSTAR ENGLISH 🇮🇳",
+      "name": "🇮🇳 Hotstar English HD",
+      "description": "HOTSTAR 🇮🇳",
       "url": "https://jcevents.hotstar.com/bpk-tv/e03bbf7688f4b14faa3782e78851c3d9_CTV/Fallback/index2.m3u8",
       "_sourceKind": "m3u8",
       "behaviorHints": {
@@ -16,6 +16,18 @@
           }
         }
       }
+    },
+    {
+      "name": "📺 Fox Cricket 50FPS",
+      "description": "SMOOTH 50FPS",
+      "url": "https://freelivtv.xyz/oppu/m3u.php?id=167593&e=.m3u8",
+      "_sourceKind": "m3u8"
+    },
+    {
+      "name": "📺 FlexTV Cricket",
+      "description": "ALT SOURCE",
+      "url": "https://ranapk.online/FLEXTV/play.php?id=247166",
+      "_sourceKind": "m3u8"
     }
   ]
 }
